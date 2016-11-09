@@ -1,0 +1,30 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  height: 100%;
+  width: 100%;
+}
+
+.container {
+  display: flex;
+}
+
+.column-repeat {
+  flex: 1;
+}
+
+#first {
+  background-color: red;
+}
+
+#second {
+  background-color: green;
+}
+
+#third {
+  background-color: blue;
+}
+
+.colorChanger {
+
+}
